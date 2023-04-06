@@ -113,4 +113,3 @@ print(list)
 list.delete(1)
 list.delete(2)
 print(list)
-
