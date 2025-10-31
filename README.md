@@ -45,6 +45,6 @@ Each algorithm is written from scratch to demonstrate the core logic behind comm
 
 Clone the repository and run any file directly:
 ```bash
-git clone https://github.com/<your-username>/algorithms-in-python.git
+git clone https://github.com/bkwasny1/Algorithms-in-python.git
 cd algorithms-in-python
 python3 AVLtree.py
